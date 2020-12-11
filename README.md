@@ -21,6 +21,8 @@ docker-compose down
 
 You should run this command to take down everything spun up by ```docker-compose up```
 
+After everything has been taken down, add more SQL scripts in the ./sql_scripts directory. When you run ```docker-compose up``` again, the new running container should be populated with the data from your new SQL scripts.
+
 ## Connect to MySQL Docker container
 While the Docker container is still running, you can connect to your MySQL database by SSHing into it with these commands:
 ```
