@@ -1,5 +1,5 @@
 # MySQL Docker Dummy
-This repository will spin up a Docker container on your local machine for testing your applications. The main source of reference and inspiration for this repo comes from this [awesome post](https://towardsdatascience.com/how-to-run-mysql-using-docker-ed4cebcd90e4
+This repository will spin up a MySQL Docker container populated with some dummy data on your local machine for testing your applications using Docker Compose. You can easily add and remove SQL scripts to change the dummy data. The main source of reference and inspiration for this repo comes from this [awesome post](https://towardsdatascience.com/how-to-run-mysql-using-docker-ed4cebcd90e4
 ) by Mahbub Zaman.
 
 # User Guide
