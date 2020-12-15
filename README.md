@@ -32,7 +32,7 @@ mysql -uroot -proot --database test_database
 
 Then you can run SQL statements such as:
 ```
-SEELCT * FROM students;
+SELECT * FROM students;
 ```
 
 If you need the DSN/connection string, it would be:
