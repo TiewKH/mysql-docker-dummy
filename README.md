@@ -37,5 +37,5 @@ SELECT * FROM students;
 
 If you need the DSN/connection string, it would be:
 ```
-root:root@tcp(127.0.0.1:3307)/test_db
+root:root@tcp(127.0.0.1:3307)/test_database
 ```
